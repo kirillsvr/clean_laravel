@@ -1,0 +1,15 @@
+{
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "UseCase\\": "UseCase/",
+            "Domain\\": "Domain/",
+            "Persistance\\": "Persistance/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    }
+}
